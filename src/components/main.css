@@ -1,0 +1,17 @@
+.bg-cover {
+  z-index: 0;
+  top: 0px;
+  left: 0px;
+}
+.main-content {
+  z-index: 1;
+  margin-top: 100px;
+  color: white;
+}
+.movie-overview {
+  font-size: 0.5em;
+  max-width: 500px;
+}
+body {
+  background-color: black;
+}

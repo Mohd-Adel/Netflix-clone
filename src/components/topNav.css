@@ -1,0 +1,36 @@
+* {
+  padding: 0px;
+}
+
+.logo {
+  width: 100px;
+  margin: 0px;
+  padding: 0px;
+}
+.nav-item {
+  font-size: 0.7em;
+  width: 100%;
+  padding: 0%;
+  margin: 0%;
+  text-align: center;
+  white-space: nowrap;
+}
+.nav-item > a:hover {
+  color: grey;
+}
+.navbar {
+  padding: 0px;
+  top: 0px;
+  left: 0px;
+  z-index: 99;
+}
+
+.right-icons > a {
+  color: white;
+}
+.right-icons > a:hover {
+  color: grey;
+}
+/* .right-icons{
+  
+} */

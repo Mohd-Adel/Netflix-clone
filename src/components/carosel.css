@@ -1,0 +1,51 @@
+.border2 {
+  border: 3px solid white;
+}
+.owl-prev {
+  width: 35px;
+  height: 120%;
+  position: absolute;
+  top: 15%;
+  left: -50px;
+  margin-left: -20px;
+  display: block !important;
+  border: 0px solid black;
+}
+
+.owl-next {
+  width: 35px;
+  height: 120%;
+  position: absolute;
+  top: 15%;
+  right: -50px;
+  display: block !important;
+  border: 0px solid black;
+}
+.owl-prev i,
+.owl-next i {
+  transform: scale(1, 6);
+  color: #ccc;
+}
+.thumb {
+  height: 100px;
+}
+.movies-type {
+  margin-top: 20px;
+  font-size: 1.2rem;
+}
+
+.movie-card {
+  z-index: 99;
+  width: 500px;
+  height: 500px;
+  overflow: hidden;
+  max-height: 600px;
+  margin: auto;
+  left: 0%;
+  top: 0;
+}
+
+.card-img-top {
+  width: 500;
+  height: 250px;
+}
